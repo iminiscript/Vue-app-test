@@ -9,7 +9,7 @@
                 <hr>
                 <ant-result></ant-result>
                 <hr>
-                <!--<app-counter></app-counter>-->
+                <app-counter></app-counter>
             </div>
         </div>
     </div>

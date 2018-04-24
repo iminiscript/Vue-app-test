@@ -5,7 +5,7 @@
         <router-link to="/user" tag="li" active-class="active"><a class="nav-link">Users</a></router-link>
         <router-link to="/shop" tag="li" active-class="active"><a class="nav-link">Shop</a></router-link>
         <router-link to="/form" tag="li" active-class="active"><a class="nav-link">form</a></router-link>
-        <!--<router-link to="/counter" tag="li" active-class="active"><a class="nav-link">Counter</a></router-link>-->
+        <router-link to="/counter" tag="li" active-class="active"><a class="nav-link">Counters</a></router-link>
     </ul>
     <ul class="nav navbar-nav navbar-right" style="float:right;">
                     <li

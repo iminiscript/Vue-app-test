@@ -102,12 +102,12 @@ query{
 
 const router  = new VueRouter({
 	routes,
-	mode :'history',
-	store
+	mode :'history'
   })
 
 new Vue({
 	el: '#app',
 	router,
+	store,
 	render: h => h(App)
 })
